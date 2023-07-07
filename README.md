@@ -8,7 +8,7 @@ Hi, I'm Sultok, a frontend engineer from QUSH. Dedicated to being a fullstack en
 
 <a href="#"><img align="right" src="https://thumbs.gfycat.com/BaggyAdorableFairybluebird-size_restricted.gif" width="200 " height="200" /></a>
 
-## 🧑‍💻 Recent Projects
+## 🧑‍💻 Current public Projects
 
 - <a href='https://github.com/SultokTheF/QazQA' target='_blank'>Qazaq NLP for QA system</a>
 - <a href='https://github.com/SultokTheF/map_picker' target='_blank'>Interactive map for organizing an event</a>
