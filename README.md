@@ -15,7 +15,7 @@ Hi, I'm Sultok, a frontend engineer from QUSH. Dedicated to being a fullstack en
 - <a href='https://github.com/SultokTheF/QUSH' target='_blank'>A platform for managing sports fields</a>
 
 
-## 😇Languages and Tools:
+## 😇 Languages and Tools
 
 <p>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
