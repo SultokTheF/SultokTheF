@@ -1,5 +1,8 @@
-<h1 align="center">Hello, I'm Sultaniyar Quandyq <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Sultaniyar+Quandyq)](https://git.io/typing-svg)
+  
+</h1>
 
 <br />
 <br />
@@ -20,6 +23,6 @@ Hi, I'm Sultok, a frontend engineer from QUSH. Dedicated to being a fullstack en
 <p>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-  <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" height="40" style="vertical-align:down; margin:4px" alt="golang">
+<img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" height="40" style="vertical-align:down; margin:4px" alt="golang">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
 </p>
