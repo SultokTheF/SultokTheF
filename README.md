@@ -10,7 +10,6 @@
 
 ## 🧑‍💻 Current public Projects
 
-- <a href='https://github.com/SultokTheF/QazQA' target='_blank'>Qazaq NLP for QA system</a>
 - <a href='https://github.com/SultokTheF/map_picker' target='_blank'>Interactive map for organizing events</a>
 - <a href='https://github.com/SultokTheF/QUSH' target='_blank'>Platform for managing sports grounds</a>
 
