@@ -5,7 +5,7 @@
 </h1>
 
 <a href="#">
-  <img align="right" src="gifs/mydunk.gif" width="200 " height="200"/>
+  <img align="right" src="gifs/mydunk.gif" width="200" height="200"/>
 </a>
 
 ## 🧑‍💻 Current public Projects
