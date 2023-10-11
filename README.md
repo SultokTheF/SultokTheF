@@ -11,8 +11,6 @@
 ## 🧑‍💻 Current public Projects
 
 - <a href='https://github.com/SultokTheF/QazQA' target='_blank'>Qazaq Natural Language Processing model for question-answering system.</a>
-- <a href='https://github.com/SultokTheF/EventMap' target='_blank'>Interactive Map, where users can share events with others in their community</a>
-- <a href='https://github.com/SultokTheF/TourneyGrid' target='_blank'>Tournament Grid Management Application</a>
 
 
 ## 📌 Languages and Tools
