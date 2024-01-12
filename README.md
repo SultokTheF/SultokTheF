@@ -22,6 +22,7 @@
   <img src="icons/nodejs.png" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
   <img src="icons/python.png" height="40" style="vertical-align:down; margin:4px" alt="python">
   <img src="icons/django.png" height="40" style="vertical-align:down; margin:4px" alt="django">
+  <img src="icons/postgre.png" height="40" style="vertical-align:down; margin:4px" alt="postgres">
 </p>
 
 ## 📨 How to Reach me
