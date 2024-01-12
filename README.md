@@ -27,7 +27,7 @@
 ## 📨 How to Reach me
 <p>
   <a href="https://www.instagram.com/sult0k/"><img src="icons/Instagram_icon.png" height="40" style="vertical-align:down; margin:10px" alt="ig"></a>
-  <a href="linkedin.com/in/sultaniyar-quandyq-39b244258"><img src="icons/LinkedIn_icon.svg.png" height="40" style="vertical-align:down; margin:10px" alt="linkedin"></a>
+  <a href="https://www.linkedin.com/in/sultaniyar-quandyq-39b244258/"><img src="icons/LinkedIn_icon.svg.png" height="40" style="vertical-align:down; margin:10px" alt="linkedin"></a>
   <a href="https://telegram.me/ВашеИмяПользователя"><img src="icons/Telegram_logo.svg.png" height="40" style="vertical-align:down; margin:10px" alt="tg"></a>
 </p>
 
