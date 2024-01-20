@@ -12,7 +12,7 @@
 
 - <a href='https://github.com/SultokTheF/QazQA' target='_blank'>Qazaq Natural Language Processing model for question-answering system.</a>
 - <a href='https://github.com/SultokTheF/TaskManager' target='_blank'>Collaborative project for the WebApp course at Astana IT University</a>
-- <a href='https://github.com/SultokTheF/BattleXO' target='_blank'>Real-time collaborative Tic Tac Toe game using React and Django</a
+- <a href='https://github.com/SultokTheF/BattleXO' target='_blank'>Real-time collaborative Tic Tac Toe game using React and Django</a>
 
 
 ## 📌 Languages and Tools
