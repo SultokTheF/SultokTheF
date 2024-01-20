@@ -25,6 +25,7 @@
   <img src="icons/python.png" height="40" style="vertical-align:down; margin:4px" alt="python">
   <img src="icons/django.png" height="40" style="vertical-align:down; margin:4px" alt="django">
   <img src="icons/postgre.png" height="40" style="vertical-align:down; margin:4px" alt="postgres">
+  <img src="icons/mongodb.svg" height="40" style="vertical-align:down; margin:4px" alt="mongodb">
 </p>
 
 ## 📨 How to Reach me
