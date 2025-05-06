@@ -20,6 +20,7 @@
   <img src="icons/JavaScript.png" height="40" style="vertical-align:down; margin:4px" alt="javascript">
   <img src="icons/TypeScript.png" height="40" style="vertical-align:down; margin:4px" alt="typescript">
   <img src="icons/python.png" height="40" style="vertical-align:down; margin:4px" alt="python">
+  <img src="icons/golang.png" height="40" style="vertical-align:down; margin:4px" alt="golang">
   <img src="icons/nodejs.png" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
   <img src="icons/reactjs.png" height="40" style="vertical-align:down; margin:4px" alt="reactjs">
   <img src="icons/tailwindcss.svg" height="40" style="vertical-align:down; margin:4px" alt="tailwindcss">
