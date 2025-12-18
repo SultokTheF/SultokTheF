@@ -4,9 +4,18 @@
   </a>
 </h1>
 
-<a href="#">
-  <img align="right" src="gifs/mydunk.gif" width="200" height="200" alt="My perfect highlight dunk gif"/>
-</a>
+<div align="center" style="margin-bottom: 24px;">
+  <img
+    src="gifs/mydunk.gif"
+    width="220"
+    height="220"
+    loading="lazy"
+    decoding="async"
+    alt="My perfect highlight dunk gif"
+    style="border-radius: 12px; box-shadow: 0 12px 30px rgba(15, 23, 42, 0.25); background: #0f172a url('icons/loader.svg') center center / 48px 48px no-repeat; display: block;"
+  />
+  <p style="margin-top: 12px;"><em>Side quest: land dunks that load as smoothly as my code deploys.</em></p>
+</div>
 
 ## Current public Projects
 
