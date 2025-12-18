@@ -14,7 +14,6 @@
     alt="My perfect highlight dunk gif"
     style="border-radius: 12px; box-shadow: 0 12px 30px rgba(15, 23, 42, 0.25); background: #0f172a url('icons/loader.svg') center center / 48px 48px no-repeat; display: block;"
   />
-  <p style="margin-top: 12px;"><em>Side quest: land dunks that load as smoothly as my code deploys.</em></p>
 </div>
 
 ## Current public Projects
